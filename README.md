@@ -1,7 +1,7 @@
-<h1 align="center">Welcome to Easy Apps Ltd. 👋</h1>
+<h1 align="center">Добро пажаловать в Easy Apps Ltd. 👋</h1>
 <p align="center">
 
-> CLI that generates beautiful README.md files.<br /> `readme-md-generator` will suggest you default answers by reading your `package.json` and `git` configuration.
+> Разработчик: Усманов Хуршед.<br /> `ads` тут только ответы для сервера по показу рекламы`google` и `yandex`.
 
 ## ✨ Demo
 
