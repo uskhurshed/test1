@@ -3,44 +3,14 @@
 
 > Разработчик: Усманов Хуршед.<br /> `ads` тут только ответы для сервера по показу рекламы`google` и `yandex`.
 
-## ✨ Demo
-
-`readme-md-generator` is able to read your environment (package.json, git config...) to suggest you default answers during the `README.md` creation process:
+## ✨ -------------------  EASY APPS LTD  -------------------
 
 <p align="center">
   <img width="700" align="center" src="https://user-images.githubusercontent.com/9840435/60266022-72a82400-98e7-11e9-9958-f9004c2f97e1.gif" alt="demo"/>
 </p>
 
-Generated `README.md`:
-
-<p align="center">
-  <img width="700" src="https://user-images.githubusercontent.com/9840435/60266090-9cf9e180-98e7-11e9-9cac-3afeec349bbc.jpg" alt="cli output"/>
-</p>
-
 Example of `package.json` with good meta data:
 
-```json
-// The package.json is not required to run README-MD-GENERATOR
-{
-  "name": "readme-md-generator",
-  "version": "0.1.3",
-  "description": "CLI that generates beautiful README.md files.",
-  "author": "Franck Abgrall",
-  "license": "MIT",
-  "homepage": "https://github.com/kefranabg/readme-md-generator#readme",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/kefranabg/readme-md-generator.git"
-  },
-  "bugs": {
-    "url": "https://github.com/kefranabg/readme-md-generator/issues"
-  },
-  "engines": {
-    "npm": ">=5.5.0",
-    "node": ">=9.3.0"
-  }
-}
-```
 
 ## 🚀 Usage
 
