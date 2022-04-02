@@ -1,1 +1,18 @@
-{appsnamesArray:"Маркази миллии тести, Sinoptik Lite, VPN CAT, Эссе бо забони точики, Таквим - вактхои намоз, Мотиватор на каждый день, ZK.FM PRO Music Online",appsurlArray:""}
+{
+  appsname: [
+    "Маркази миллии тести",
+    "Sinoptik Lite",
+    "Sinoptik Lite",
+    "VPN CAT ",
+    "Эссе бо забони точики ",
+    "Таквим - вактхои намоз ",
+    "Мотиватор на каждый день ",
+    "ZK.FM PRO Music Online "
+  ],
+  appsurl: [
+    {
+      "title": "title1",
+      "description": "dec1"
+    }
+  ]
+}
