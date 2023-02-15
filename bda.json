@@ -9,43 +9,43 @@
       "secondPrice": 20
     },
     {
-      "numberId": 285,
-      "chapterId": "часть 2",
-      "title": "1",
-      "description": "",
-      "firstPrice": 1,
-      "secondPrice": 1
+      "numberId": 2,
+      "chapterId": "2",
+      "title": "2",
+      "description": "2",
+      "firstPrice": 2,
+      "secondPrice": 2
     },
     {
       "numberId": 3,
-      "chapterId": "1",
-      "title": "1",
-      "description": "",
-      "firstPrice": 1,
-      "secondPrice": 1
+      "chapterId": "3",
+      "title": "3",
+      "description": "3",
+      "firstPrice": 3,
+      "secondPrice": 3
     },
     {
       "numberId": 4,
-      "chapterId": "1",
-      "title": "1",
-      "firstPrice": 1,
-      "secondPrice": 1
+      "chapterId": "4",
+      "title": "4",
+      "firstPrice": 4,
+      "secondPrice": 4
     },
     {
       "numberId": 5,
-      "chapterId": "1",
-      "title": "1",
-      "description": "",
-      "firstPrice": 1,
-      "secondPrice": 1
+      "chapterId": "5",
+      "title": "5",
+      "description": "5",
+      "firstPrice": 5,
+      "secondPrice": 5
     },
     {
       "numberId": 6,
-      "chapterId": "1",
-      "title": "1",
-      "description": "",
-      "firstPrice": 1,
-      "secondPrice": 1
+      "chapterId": "6",
+      "title": "6",
+      "description": "6",
+      "firstPrice": 6,
+      "secondPrice": 6
     }
   ]
 }
