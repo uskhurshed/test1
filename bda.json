@@ -1,5 +1,51 @@
-{"employees":[  
-    {"name":"Shyam", "email":"shyamjaiswal@gmail.com"},  
-    {"name":"Bob", "email":"bob32@gmail.com"},  
-    {"name":"Jai", "email":"jai87@gmail.com"}  
-]}  
+{
+  "data": [
+    {
+      "numberId": 285,
+      "chapterId": "часть 1",
+      "title": "Подкладывание на железнодорожные пути предметов, которые могут вызвать нарушение движение поездов,",
+      "description": " влечет наложения штрафа в размере от десяти до двадцати показателей для расчетов",
+      "firstPrice": 10,
+      "secondPrice": 20
+    },
+    {
+      "numberId": 285,
+      "chapterId": "часть 2",
+      "title": "1",
+      "description": "",
+      "firstPrice": 1,
+      "secondPrice": 1
+    },
+    {
+      "numberId": 3,
+      "chapterId": "1",
+      "title": "1",
+      "description": "",
+      "firstPrice": 1,
+      "secondPrice": 1
+    },
+    {
+      "numberId": 4,
+      "chapterId": "1",
+      "title": "1",
+      "firstPrice": 1,
+      "secondPrice": 1
+    },
+    {
+      "numberId": 5,
+      "chapterId": "1",
+      "title": "1",
+      "description": "",
+      "firstPrice": 1,
+      "secondPrice": 1
+    },
+    {
+      "numberId": 6,
+      "chapterId": "1",
+      "title": "1",
+      "description": "",
+      "firstPrice": 1,
+      "secondPrice": 1
+    }
+  ]
+}
