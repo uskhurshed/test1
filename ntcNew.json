@@ -1,0 +1,37 @@
+{
+  "example": 
+    {
+      "title": ["Ford", "BMW", "Fiat"],
+      "desc": ["Ford", "BMW", "Fiat"],
+      "img": ["Ford", "BMW", "Fiat"],
+      "url": ["Ford", "BMW", "Fiat"]
+    },
+  "exampleKey": 
+    {
+      "title": ["Ford", "BMW", "Fiat"],
+      "desc": ["Ford", "BMW", "Fiat"],
+      "img": ["Ford", "BMW", "Fiat"],
+      "url": ["Ford", "BMW", "Fiat"]
+    },
+  "stats": 
+    {
+      "title": ["Ford", "BMW", "Fiat"],
+      "desc": ["Ford", "BMW", "Fiat"],
+      "img": ["Ford", "BMW", "Fiat"],
+      "url": ["Ford", "BMW", "Fiat"]
+    },
+   "questions": 
+    {
+      "title": ["Ford", "BMW", "Fiat"],
+      "desc": ["Ford", "BMW", "Fiat"],
+      "img": ["Ford", "BMW", "Fiat"],
+      "url": ["Ford", "BMW", "Fiat"]
+    },
+   "univer": 
+    {
+      "title": ["Ford", "BMW", "Fiat"],
+      "desc": ["Ford", "BMW", "Fiat"],
+      "img": ["Ford", "BMW", "Fiat"],
+      "url": ["Ford", "BMW", "Fiat"]
+    }
+}
