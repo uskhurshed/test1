@@ -2,7 +2,7 @@
   "ru":{
   "example": 
     {
-      "title": ["Title1", "Title2", "Title3"],
+      "title": ["Руский", "Title2", "Title3"],
       "desc": ["Description1", "Description2", "Description3"],
       "img": ["Image1", "Image2", "Image3"],
       "url": ["Url1", "Url2", "Url3"],
@@ -44,7 +44,7 @@
   "tj":  {
       "example": 
     {
-      "title": ["Title1", "Title2", "Title3"],
+      "title": ["Точики", "Title2", "Title3"],
       "desc": ["Description1", "Description2", "Description3"],
       "img": ["Image1", "Image2", "Image3"],
       "url": ["Url1", "Url2", "Url3"],
