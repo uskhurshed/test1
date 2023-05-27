@@ -1,37 +1,87 @@
 {
+  "ru":{
   "example": 
     {
-      "title": ["Title1", "Title2", "Title3","Title4"],
-      "desc": ["Description1", "Description2", "Description3","Description4"],
-      "img": ["https://i.ibb.co/RPB96Z3/2.png", "https://i.ibb.co/RPB96Z3/2.png", "https://i.ibb.co/RPB96Z3/2.png","https://i.ibb.co/RPB96Z3/2.png"],
-      "url": ["BMW", "BMW", "Fiat","Fiat"]
+      "title": ["Title1", "Title2", "Title3"],
+      "desc": ["Description1", "Description2", "Description3"],
+      "img": ["Image1", "Image2", "Image3"],
+      "url": ["Url1", "Url2", "Url3"],
+      "type": ["web", "web", "pdf"]
     },
   "exampleKey": 
     {
-      "title": ["Ford", "BMW", "Fiat"],
-      "desc": ["Ford", "BMW", "Fiat"],
-      "img": ["Ford", "BMW", "Fiat"],
-      "url": ["Ford", "BMW", "Fiat"]
+      "title": ["Title1", "Title2", "Title3"],
+      "desc": ["Description1", "Description2", "Description3"],
+      "img": ["Image1", "Image2", "Image3"],
+      "url": ["Url1", "Url2", "Url3"],
+      "type": ["web", "web", "pdf"]
     },
   "stats": 
     {
-      "title": ["Ford", "BMW", "Fiat"],
-      "desc": ["Ford", "BMW", "Fiat"],
-      "img": ["Ford", "BMW", "Fiat"],
-      "url": ["Ford", "BMW", "Fiat"]
+      "title": ["Title1", "Title2", "Title3"],
+      "desc": ["Description1", "Description2", "Description3"],
+      "img": ["Image1", "Image2", "Image3"],
+      "url": ["Url1", "Url2", "Url3"],
+      "type": ["web", "web", "pdf"]
     },
-   "questions": 
+  "guestions": 
     {
-      "title": ["Ford", "BMW", "Fiat"],
-      "desc": ["Ford", "BMW", "Fiat"],
-      "img": ["Ford", "BMW", "Fiat"],
-      "url": ["Ford", "BMW", "Fiat"]
+      "title": ["Title1", "Title2", "Title3"],
+      "desc": ["Description1", "Description2", "Description3"],
+      "img": ["Image1", "Image2", "Image3"],
+      "url": ["Url1", "Url2", "Url3"],
+      "type": ["web", "web", "pdf"]
     },
-   "univer": 
+"univer": 
     {
-      "title": ["Ford", "BMW", "Fiat"],
-      "desc": ["Ford", "BMW", "Fiat"],
-      "img": ["Ford", "BMW", "Fiat"],
-      "url": ["Ford", "BMW", "Fiat"]
+      "title": ["Title1", "Title2", "Title3"],
+      "desc": ["Description1", "Description2", "Description3"],
+      "img": ["Image1", "Image2", "Image3"],
+      "url": ["Url1", "Url2", "Url3"],
+      "type": ["web", "web", "pdf"]
     }
+    },
+  "tj":  {
+      "example": 
+    {
+      "title": ["Title1", "Title2", "Title3"],
+      "desc": ["Description1", "Description2", "Description3"],
+      "img": ["Image1", "Image2", "Image3"],
+      "url": ["Url1", "Url2", "Url3"],
+      "type": ["web", "web", "pdf"]
+    },
+  "exampleKey": 
+    {
+      "title": ["Title1", "Title2", "Title3"],
+      "desc": ["Description1", "Description2", "Description3"],
+      "img": ["Image1", "Image2", "Image3"],
+      "url": ["Url1", "Url2", "Url3"],
+      "type": ["web", "web", "pdf"]
+    },
+  "stats": 
+    {
+      "title": ["Title1", "Title2", "Title3"],
+      "desc": ["Description1", "Description2", "Description3"],
+      "img": ["Image1", "Image2", "Image3"],
+      "url": ["Url1", "Url2", "Url3"],
+      "type": ["web", "web", "pdf"]
+    },
+  "guestions": 
+    {
+      "title": ["Title1", "Title2", "Title3"],
+      "desc": ["Description1", "Description2", "Description3"],
+      "img": ["Image1", "Image2", "Image3"],
+      "url": ["Url1", "Url2", "Url3"],
+      "type": ["web", "web", "pdf"]
+    },
+"univer": 
+    {
+      "title": ["Title1", "Title2", "Title3"],
+      "desc": ["Description1", "Description2", "Description3"],
+      "img": ["Image1", "Image2", "Image3"],
+      "url": ["Url1", "Url2", "Url3"],
+      "type": ["web", "web", "pdf"]
+    }
+  }
+
 }
