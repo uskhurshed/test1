@@ -241,48 +241,46 @@
     "stats": {
       "title": [
         "Статистический отчёт",
-        "План приема"
-      ],
-      "desc": [
-        "Description1",
-        "Description2"
-      ],
-      "img": [
-        "https://stat.ntc.tj/Y22/Index",
-        "https://stat.ntc.tj/Y22/RPlan/"
-      ],
-      "url": [
-        "https://stat.ntc.tj/Y22/Index",
-        "https://stat.ntc.tj/Y22/RPlan/"
-      ],
-      "type": [
-        "web",
-        "web"
-      ]
-    },
-    "guestions": {
-      "title": [
+        "План приема",
         "Справочник абитуриента",
-        "Вопросы и ответы"
+        "Вопросы и ответы",
+        "Высшее образования",
+        "Среднее образования"
       ],
       "desc": [
+        "Description1",
+        "Description1",
+        "Description1",
+        "Description1",
         "Description1",
         "Description2"
       ],
       "img": [
-        "Image1",
-        "Image2"
+        "https://stat.ntc.tj/Y22/Index",
+        "https://stat.ntc.tj/Y22/Index",
+        "https://stat.ntc.tj/Y22/Index",
+        "https://stat.ntc.tj/Y22/RPlan/",
+        "https://stat.ntc.tj/Y22/RPlan/",
+        "https://stat.ntc.tj/Y22/RPlan/"
       ],
       "url": [
+        "https://stat.ntc.tj/Y22/Index",
+        "https://stat.ntc.tj/Y22/RPlan/",
         "https://www.ntc.tj/ru/abiturientu/spravochnik-2022.html",
-        "https://www.ntc.tj/ru/vopros-otvet.html"
+        "https://www.ntc.tj/ru/vopros-otvet.html",
+        "file:///android_asset/university_ru.html",
+        "file:///android_asset/university2_ru.html"
       ],
       "type": [
+        "web",
+        "web",
+        "web",
+        "web",
         "web",
         "web"
       ]
     },
-    "univer": {
+    "others": {
       "title": [
         "Высшее образования",
         "Среднее образования"
@@ -547,48 +545,46 @@
     "stats": {
       "title": [
         "Ҳисоботи оморӣ",
-        "Нақшаи қабул"
-      ],
-      "desc": [
-        "Description1",
-        "Description2"
-      ],
-      "img": [
-        "https://stat.ntc.tj/Y22/Index",
-        "https://stat.ntc.tj/Y22/RPlan/"
-      ],
-      "url": [
-        "https://stat.ntc.tj/Y22/Index",
-        "https://stat.ntc.tj/Y22/RPlan/"
-      ],
-      "type": [
-        "web",
-        "web"
-      ]
-    },
-    "guestions": {
-      "title": [
+        "Нақшаи қабул",
         "Роҳнамои довталаб",
-        "Саволу чавоб"
+        "Саволу чавоб",
+        "Маълумоти олӣ",
+        "Маълумоти миёна"
       ],
       "desc": [
+        "Description1",
+        "Description1",
+        "Description1",
+        "Description1",
         "Description1",
         "Description2"
       ],
       "img": [
-        "Image1",
-        "Image2"
+        "https://stat.ntc.tj/Y22/Index",
+        "https://stat.ntc.tj/Y22/Index",
+        "https://www.ntc.tj/ru/abiturientu/spravochnik-2022.html",
+        "https://www.ntc.tj/ru/abiturientu/spravochnik-2022.html",
+        "https://www.ntc.tj/ru/abiturientu/spravochnik-2022.html",
+        "https://stat.ntc.tj/Y22/RPlan/"
       ],
       "url": [
+        "https://stat.ntc.tj/Y22/Index",
+        "https://stat.ntc.tj/Y22/RPlan/",
         "https://www.ntc.tj/ru/abiturientu/spravochnik-2022.html",
-        "https://www.ntc.tj/ru/vopros-otvet.html"
+        "https://www.ntc.tj/ru/vopros-otvet.html",
+        "file:///android_asset/university_tj.html",
+        "file:///android_asset/university2_tj.html"
       ],
       "type": [
+        "web",
+        "web",
+        "web",
+        "web",
         "web",
         "web"
       ]
     },
-    "univer": {
+    "others": {
       "title": [
         "Маълумоти олӣ",
         "Маълумоти миёна"
