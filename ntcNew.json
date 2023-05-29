@@ -621,7 +621,7 @@
   },
   "config": {
     "version": 40,
-    "package": "tj.ntc.easyapps",
+    "appPackageName": "tj.ntc.easyapps",
     "adsYandex": false,
     "admobBanner": "ca-app-pub-8198363995431120/9365563360",
     "admobinterstitial": "ca-app-pub-8198363995431120/1518862937",
