@@ -63,7 +63,7 @@
         "pdf"
       ]
     },
-    "exampleKeyA": {
+    "exampleAkey": {
       "name": "Ключи к тестам | Компонент А",
       "title": [
         "Таджикиский язык",
@@ -184,7 +184,7 @@
         "pdf"
       ]
     },
-    "exampleKeyB": {
+    "exampleBkey": {
       "name": "Ключи к тестам | Компонент Б",
       "title": [
         "Таджикиский язык",
@@ -373,7 +373,7 @@
         "pdf"
       ]
     },
-    "exampleKeyA": {
+    "exampleAkey": {
       "name": "Калиди тестҳо | Қисми А",
       "title": [
         "Забони тоҷикӣ",
@@ -494,7 +494,7 @@
         "pdf"
       ]
     },
-    "exampleKeyB": {
+    "exampleBkey": {
       "name": "Калиди тестҳо | Қисми Б",
       "title": [
         "Забони тоҷикӣ",
