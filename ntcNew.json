@@ -228,7 +228,7 @@
       "ctg1": {
         "nameCategory": "Забони тоҷикӣ",
         "subNameCategory": "Қисми А",
-        "imgCategory": "https://i.ibb.co/PCgM2bp/ic-tjk.png",
+        "imgCategory": "https://i.ibb.co/HK6kM2K/quiz-tjk.png",
         "questions": [
           {
             "quiz": "Дар кадом калимаҳо садоноки ӣ овози таркиби калима аст?",
@@ -1035,7 +1035,7 @@
       "ctg2": {
         "nameCategory": "Математика",
         "subNameCategory": "Қисми А",
-        "imgCategory": "https://i.ibb.co/xCYr6Gw/ic-math.png",
+        "imgCategory": "https://i.ibb.co/4t6F1q8/quiz-math.png",
         "questions": [
           {
             "quiz": "Бақияи тақсими адади 242 526 ба адади 5‐ро ёбед.",
@@ -1842,7 +1842,7 @@
       "ctg3": {
         "nameCategory": "География",
         "subNameCategory": "Қисми А",
-        "imgCategory": "https://i.ibb.co/NrD6VG4/ic-geo.png",
+        "imgCategory": "https://i.ibb.co/4dq9C4z/quiz-geo.png",
         "questions": [
           {
             "quiz": "Масоҳати умумии пиряхҳои Тоҷикистон чанд километро ташкил медиҳанд?",
@@ -2449,7 +2449,7 @@
       "ctg4": {
         "nameCategory": "Биология",
         "subNameCategory": "Қисми А",
-        "imgCategory": "https://i.ibb.co/HT7CSmr/ic-bio.png",
+        "imgCategory": "https://i.ibb.co/nLB4XPb/quiz-bio.png",
         "questions": [
           {
             "quiz": "Кадоме аз ин моддаҳо ғайриорганикӣ мебошад?",
@@ -3016,7 +3016,7 @@
       "ctg5": {
         "nameCategory": "Химия",
         "subNameCategory": "Қисми А",
-        "imgCategory": "https://i.ibb.co/W5Dg5db/ic-chem.png",
+        "imgCategory": "https://i.ibb.co/D1CQMBk/quiz-chem.png",
         "questions": [
           {
             "quiz": "Дар молекулаи атсетилен чанд банди химиявӣ мавҷуд аст?",
@@ -3703,7 +3703,7 @@
       "ctg6": {
         "nameCategory": "Таърих ва ҳуқуқ",
         "subNameCategory": "Қисми А",
-        "imgCategory": "https://i.ibb.co/RcWsN7j/ic-hist.png",
+        "imgCategory": "https://i.ibb.co/vJwWWWJ/quiz-hist.png",
         "questions": [
           {
             "quiz": "Ин сухан моҳияти кадом давраи таърихиро ифода менамоянд?\\n“Ба аҳли Бухоро фармуд, то як ними хонаҳо ва молу замини худро ба онҳо бидиҳанд, то ки ба онҳо рӯзаю намоз ёд бидиҳанд ...”",
@@ -4738,7 +4738,7 @@
       "ctg1": {
         "nameCategory": "Забони тоҷикӣ",
         "subNameCategory": "Қисми А",
-        "imgCategory": "https://i.ibb.co/PCgM2bp/ic-tjk.png",
+        "imgCategory": "https://i.ibb.co/HK6kM2K/quiz-tjk.png",
         "questions": [
           {
             "quiz": "Дар кадом калимаҳо садоноки ӣ овози таркиби калима аст?",
@@ -5545,7 +5545,7 @@
       "ctg2": {
         "nameCategory": "Математика",
         "subNameCategory": "Қисми А",
-        "imgCategory": "https://i.ibb.co/xCYr6Gw/ic-math.png",
+        "imgCategory": "https://i.ibb.co/4t6F1q8/quiz-math.png",
         "questions": [
           {
             "quiz": "Бақияи тақсими адади 242 526 ба адади 5‐ро ёбед.",
@@ -6352,7 +6352,7 @@
       "ctg3": {
         "nameCategory": "География",
         "subNameCategory": "Қисми А",
-        "imgCategory": "https://i.ibb.co/NrD6VG4/ic-geo.png",
+        "imgCategory": "https://i.ibb.co/4dq9C4z/quiz-geo.png",
         "questions": [
           {
             "quiz": "Масоҳати умумии пиряхҳои Тоҷикистон чанд километро ташкил медиҳанд?",
@@ -6959,7 +6959,7 @@
       "ctg4": {
         "nameCategory": "Биология",
         "subNameCategory": "Қисми А",
-        "imgCategory": "https://i.ibb.co/HT7CSmr/ic-bio.png",
+        "imgCategory": "https://i.ibb.co/nLB4XPb/quiz-bio.png",
         "questions": [
           {
             "quiz": "Кадоме аз ин моддаҳо ғайриорганикӣ мебошад?",
@@ -7526,7 +7526,7 @@
       "ctg5": {
         "nameCategory": "Химия",
         "subNameCategory": "Қисми А",
-        "imgCategory": "https://i.ibb.co/W5Dg5db/ic-chem.png",
+        "imgCategory": "https://i.ibb.co/D1CQMBk/quiz-chem.png",
         "questions": [
           {
             "quiz": "Дар молекулаи атсетилен чанд банди химиявӣ мавҷуд аст?",
@@ -8213,7 +8213,7 @@
       "ctg6": {
         "nameCategory": "Таърих ва ҳуқуқ",
         "subNameCategory": "Қисми А",
-        "imgCategory": "https://i.ibb.co/RcWsN7j/ic-hist.png",
+        "imgCategory": "https://i.ibb.co/vJwWWWJ/quiz-hist.png",
         "questions": [
           {
             "quiz": "Ин сухан моҳияти кадом давраи таърихиро ифода менамоянд?\\n“Ба аҳли Бухоро фармуд, то як ними хонаҳо ва молу замини худро ба онҳо бидиҳанд, то ки ба онҳо рӯзаю намоз ёд бидиҳанд ...”",
