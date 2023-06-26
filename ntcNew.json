@@ -1031,8 +1031,7 @@
         "subNameCategory": "Компонент А",
         "imgCategory": "https://i.ibb.co/4t6F1q8/quiz-math.png",
         "questions": [
-          [
-            {
+                  {
               "quiz": "Наименьшее общее кратное чисел: 13, 65, 91.",
               "a": "91",
               "b": "105",
@@ -1673,7 +1672,7 @@
               "answer": "c"
             }
           ]
-        ]
+    
       },
       "ctg3": {
         "nameCategory": "География",
