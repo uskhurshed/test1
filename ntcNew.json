@@ -7372,7 +7372,7 @@
     }
   },
   "config": {
-    "version": 40,
+    "version": 38,
     "urlMessage": "https://play.google.com/store/apps/details?id=tj.ntc.easyapps",
     "adsYandex": false,
     "admobBanner": "capub",
