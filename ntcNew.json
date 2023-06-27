@@ -4,7 +4,6 @@
       "exampleAwithKey": {
         "name": "Примеры тестов | Компонент А",
         "title": [
-          "Таджикиский язык",
           "Математика",
           "Химия",
           "Физика",
@@ -16,7 +15,6 @@
           "Биология"
         ],
         "desc": [
-          "ALL_Tj",
           "A2-12_Math_ru",
           "A3-15_Chemistry_ru",
           "A4-15_Physics_ru",
@@ -28,7 +26,6 @@
           "A2-5_Biology_ru"
         ],
         "img": [
-          "https://i.ibb.co/PCgM2bp/ic-tjk.png",
           "https://i.ibb.co/xCYr6Gw/ic-math.png",
           "https://i.ibb.co/W5Dg5db/ic-chem.png",
           "https://i.ibb.co/wgSLQhY/ic-phys.png",
@@ -40,7 +37,6 @@
           "https://i.ibb.co/HT7CSmr/ic-bio.png"
         ],
         "url": [
-          "https://www.ntc.tj/images/Downloads/A1-ALL_Tj.pdf",
           "https://www.ntc.tj/images/Downloads/A2-12_Math_ru.pdf",
           "https://www.ntc.tj/images/Downloads/A3-15_Chemistry_ru.pdf",
           "https://www.ntc.tj/images/Downloads/A4-15_Physics_ru.pdf",
@@ -52,7 +48,6 @@
           "https://www.ntc.tj/images/Downloads/A2-5_Biology_ru.pdf"
         ],
         "subUrl": [
-          "https://www.ntc.tj/images/Downloads/keys/A1-ALL_ru_key.pdf",
           "https://www.ntc.tj/images/Downloads/keys/A2-12_Math_ru_key.pdf",
           "https://www.ntc.tj/images/Downloads/keys/A3-15_Chemistry_ru_key.pdf",
           "https://www.ntc.tj/images/Downloads/keys/A4-15_Physics_ru_key.pdf",
@@ -72,14 +67,12 @@
           "pdf",
           "pdf",
           "pdf",
-          "pdf",
           "pdf"
         ]
       },
       "exampleBwithKey": {
         "name": "Примеры тестов | Компонент Б",
         "title": [
-          "Таджикиский язык",
           "Математика",
           "Физика",
           "География",
@@ -90,7 +83,6 @@
           "Химия"
         ],
         "desc": [
-          "A1-ALL_Tj",
           "B-Math_ru",
           "B-Physics_ru",
           "B-Geography_ru",
@@ -101,7 +93,6 @@
           "B-Chemistry_ru"
         ],
         "img": [
-          "https://i.ibb.co/VH0jzkh/ic-tjk-b.png",
           "https://i.ibb.co/M968HRp/ic-math-b.png",
           "https://i.ibb.co/FWVT3y8/ic-phys-b.png",
           "https://i.ibb.co/wwTMLPH/ic-geo-b.png",
@@ -112,7 +103,6 @@
           "https://i.ibb.co/ck37BgD/ic-chem-b.png"
         ],
         "url": [
-          "https://www.ntc.tj/images/Downloads/A1-ALL_Tj.pdf",
           "https://www.ntc.tj/images/Downloads/B-Math_ru.pdf",
           "https://www.ntc.tj/images/Downloads/B-Physics_ru.pdf",
           "https://www.ntc.tj/images/Downloads/B-Geography_ru.pdf",
@@ -123,7 +113,6 @@
           "https://www.ntc.tj/images/Downloads/B-Chemistry_ru.pdf"
         ],
         "subUrl": [
-          "https://www.ntc.tj/images/Downloads/keys/A1-ALL_ru_key.pdf",
           "https://www.ntc.tj/images/Downloads/keys/B-Math_key_ru.pdf",
           "https://www.ntc.tj/images/Downloads/keys/B-Physics_key_ru.pdf",
           "https://www.ntc.tj/images/Downloads/keys/B-Geography_key_ru.pdf",
@@ -134,7 +123,6 @@
           "https://www.ntc.tj/images/Downloads/keys/B-Chemistry_key_ru.pdf"
         ],
         "type": [
-          "pdf",
           "pdf",
           "pdf",
           "pdf",
