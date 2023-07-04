@@ -1,0 +1,15 @@
+{
+  "config": {
+    "url": "https://zoom.earth/?lang=en",
+    "javaScript": "var icons = document.getElementsByClassName('icon');var icon = icons[2]; icon.style.backgroundImage = \"url('https://i.ibb.co/JyM62Cr/user.png')\";",
+    "statusBar": "",
+    "version": 1,
+    "urlMessage": "https://play.google.com/store/apps/details?id=tj.ntc.easyapps",
+    "adsYandex": false,
+    "admobBanner": "ca-app-pub-8198363995431120/9365563360",
+    "admobInterstitial": "ca-app-pub-8198363995431120/1518862937",
+    "yandexBanner": "R-M-1719790-1",
+    "yandexInterstitial": "R-M-1719790-2",
+    "message": "Ура! Хорошие новости доступна обновление!"
+  }
+}
