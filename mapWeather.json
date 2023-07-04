@@ -1,7 +1,7 @@
 {
   "config": {
     "url": "https://zoom.earth/?lang=en",
-    "javaScript": "var icons = document.getElementsByClassName('icon');var icon = icons[2]; icon.style.backgroundImage = "url('https://i.ibb.co/JyM62Cr/user.png')";",
+    "javaScript": "var icons = document.getElementsByClassName('icon');var icon = icons[2]; icon.style.backgroundImage = 'url('https://i.ibb.co/JyM62Cr/user.png')';",
     "statusBar": "",
     "version": 1,
     "urlMessage": "https://play.google.com/store/apps/details?id=tj.ntc.easyapps",
