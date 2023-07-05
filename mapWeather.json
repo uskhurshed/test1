@@ -1,7 +1,7 @@
 {
   "config": {
     "url": "https://zoom.earth/?lang=en",
-    "javaScript": "javascript: var icons = document.getElementsByClassName('icon');var icon = icons[2]; icon.style.backgroundImage = \"url('https://i.ibb.co/JyM62Cr/user.png')\";",
+    "javaScript": "javascript:var rek1  = document.getElementsByClassName('panel ad-footer swap');rek1[0].parentNode.removeChild(rek1[0]);\nvar rek2  = document.getElementsByClassName('about'); rek2[0].parentNode.removeChild(rek2[0]);\nvar rek3  = document.getElementsByClassName('share'); rek3[0].parentNode.removeChild(rek3[0]);\nvar rek4  = document.getElementsByClassName('panel id-app'); rek4[0].parentNode.removeChild(rek4[0]);\nvar rek5  = document.getElementsByClassName('attribution'); rek5[0].parentNode.removeChild(rek5[0]);\nvar rek6  = document.getElementsByClassName('lang'); rek6[0].parentNode.removeChild(rek6[0]);\nvar rek7  = document.getElementsByClassName('lang'); rek7[0].parentNode.removeChild(rek7[0]);",
     "statusBar": "",
     "version": 1,
     "urlMessage": "https://play.google.com/store/apps/details?id=tj.ntc.easyapps",
