@@ -203,8 +203,8 @@
           "Правиль. ответы экзамена"
         ],
         "desc": [
-          "javascript:var rek1  = document.getElementById('header');if(rek1){\trek1.parentNode.removeChild(rek1);}var rek2  = document.getElementById('sidebar');if(rek2){\trek2.parentNode.removeChild(rek2);}var rek3  = document.getElementById('footer');if(rek3){\trek3.parentNode.removeChild(rek3);}",
-          ""
+          "",
+          "javascript:var rek1  = document.getElementById('header');if(rek1){\trek1.parentNode.removeChild(rek1);}var rek2  = document.getElementById('sidebar');if(rek2){\trek2.parentNode.removeChild(rek2);}var rek3  = document.getElementById('footer');if(rek3){\trek3.parentNode.removeChild(rek3);}"
         ],
         "img": [
           "https://i.ibb.co/JyM62Cr/user.png",
