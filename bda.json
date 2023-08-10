@@ -1,6 +1,6 @@
 {
   "en": {
-    "fineFix": {
+    "fineFixed": {
       "name": "Штрафы",
       "url": "Штрафы",
       "indexSMN": 68,
@@ -1074,7 +1074,7 @@
     }
   },
   "tg": {
-    "fineFix": {
+    "fineFixed": {
       "name": "Ҷаримаҳо",
       "url": "Ҷаримаҳо",
       "indexSMN": 68,
