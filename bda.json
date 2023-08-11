@@ -2148,7 +2148,7 @@
     }
   },
   "config": {
-    "version": 40,
+    "version": 1,
     "urlMessage": "https://play.google.com/store/apps/details?id=com.rhapps.kalimayobak",
     "adsYandex": false,
     "admobBanner": "ca-app-pub-8198363995431120/9365563360",
