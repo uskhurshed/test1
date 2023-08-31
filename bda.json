@@ -946,7 +946,7 @@
         "Знаки доп. информации"
       ],
       "img": [
-         "https://i.ibb.co/4ttZT1Q/1.png",
+        "https://i.ibb.co/4ttZT1Q/1.png",
         "https://i.ibb.co/fCWzZvR/2.png",
         "https://i.ibb.co/8KS2r6V/3.png",
         "https://i.ibb.co/GCCbJZ1/4.png",
@@ -1039,7 +1039,7 @@
         "https://stat.ntc.tj/Y22/RPlan/"
       ],
       "block": [
-        "javascript:var elements = document.querySelectorAll('.pb-5.text-center');elements.forEach(function(element) {element.remove();});var anchorElements = document.querySelectorAll('a[href="./"]');anchorElements.forEach(function(anchorElement) {anchorElement.remove();});var instagramLink = document.querySelector('a[href="instagram://user?username=rastamojka.tj"]');instagramLink.parentNode.removeChild(instagramLink);var adElements = document.querySelectorAll('.adsbygoogle.adsbygoogle-noablate');adElements.forEach(function(element) {element.parentNode.removeChild(element);});",
+        "javascript:var elements = document.querySelectorAll('.pb-5.text-center');elements.forEach(function(element) {element.remove();});var anchorElements = document.querySelectorAll('a[href=\"./\"]');anchorElements.forEach(function(anchorElement) {anchorElement.remove();});var instagramLink = document.querySelector('a[href=\"instagram://user?username=rastamojka.tj\"]');instagramLink.parentNode.removeChild(instagramLink);var adElements = document.querySelectorAll('.adsbygoogle.adsbygoogle-noablate');adElements.forEach(function(element) {element.parentNode.removeChild(element);});",
         "",
         "",
         ""
