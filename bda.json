@@ -946,13 +946,13 @@
         "Знаки доп. информации"
       ],
       "img": [
-        "https://i.ibb.co/4ttZT1Q/1.png",
-        "https://i.ibb.co/fCWzZvR/2.png",
-        "https://i.ibb.co/8KS2r6V/3.png",
-        "https://i.ibb.co/GCCbJZ1/4.png",
-        "https://i.ibb.co/ggQvkSM/5.png",
-        "https://i.ibb.co/LZgmgyV/6.png",
-        "https://i.ibb.co/NS8qVS8/7.png"
+        "https://i.ibb.co/gvCD9Dz/1.png",
+        "https://i.ibb.co/fty6tbW/2.png",
+        "https://i.ibb.co/f0QjSDp/3.png",
+        "https://i.ibb.co/Srv3WQx/4.png",
+        "https://i.ibb.co/88JpPBj/5.png",
+        "https://i.ibb.co/tc2XZrp/6.png",
+        "https://i.ibb.co/61gZY2G/7.png"
       ],
       "url": [
         "file:///android_asset/lesson/l1.html",
@@ -1006,8 +1006,8 @@
         "file:///android_asset/vertSign.html"
       ],
       "block": [
-        "https://stat.ntc.tj/Y22/Index",
-        "https://stat.ntc.tj/Y22/RPlan/"
+        "",
+        ""
       ],
       "colorHex": [
         "#3894C3",
