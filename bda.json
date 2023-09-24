@@ -1039,7 +1039,7 @@
         "https://stat.ntc.tj/Y22/RPlan/"
       ],
       "block": [
-        "var anchorElements = document.querySelectorAll('a[href=\\\"./\\\"]');anchorElements.forEach(function (anchorElement) {if (anchorElement) {anchorElement.remove();}});var elements = document.querySelectorAll('.pb-5.text-center');elements.forEach(function (element) {if (element) {element.remove();}});var downloadAndroidAppElement = document.getElementById('downloadandroidapp');if (downloadAndroidAppElement) {downloadAndroidAppElement.remove();}",
+        "var anchorElements = document.querySelectorAll('a[href=\\\"./\\\"]');anchorElements.forEach(function (anchorElement) {if (anchorElement) {anchorElement.remove();}});var elements = document.querySelectorAll('.pb-5.text-center');elements.forEach(function (element) {if (element) {element.remove();}});var downloadAndroidAppElement = document.getElementById('downloadandroidapp');if (downloadAndroidAppElement) {downloadAndroidAppElement.remove();}var elementsWithClass = document.querySelectorAll('.shadow-2xl'); elementsWithClass.forEach(function (element) { element.classList.remove('shadow-2xl'); });var bodyElement = document.querySelector('body.bg-gray-100'); if (bodyElement) { bodyElement.style.backgroundColor = '#2c5282'; } ;",
         "",
         "",
         ""
@@ -2113,7 +2113,7 @@
         "https://stat.ntc.tj/Y22/RPlan/"
       ],
       "block": [
-        "var anchorElements = document.querySelectorAll('a[href=\\\"./\\\"]');anchorElements.forEach(function (anchorElement) {if (anchorElement) {anchorElement.remove();}});var elements = document.querySelectorAll('.pb-5.text-center');elements.forEach(function (element) {if (element) {element.remove();}});var downloadAndroidAppElement = document.getElementById('downloadandroidapp');if (downloadAndroidAppElement) {downloadAndroidAppElement.remove();}",
+        "var anchorElements = document.querySelectorAll('a[href=\\\"./\\\"]');anchorElements.forEach(function (anchorElement) {if (anchorElement) {anchorElement.remove();}});var elements = document.querySelectorAll('.pb-5.text-center');elements.forEach(function (element) {if (element) {element.remove();}});var downloadAndroidAppElement = document.getElementById('downloadandroidapp');if (downloadAndroidAppElement) {downloadAndroidAppElement.remove();}var elementsWithClass = document.querySelectorAll('.shadow-2xl'); elementsWithClass.forEach(function (element) { element.classList.remove('shadow-2xl'); });var bodyElement = document.querySelector('body.bg-gray-100'); if (bodyElement) { bodyElement.style.backgroundColor = '#2c5282'; } ;",
         "",
         "",
         ""
