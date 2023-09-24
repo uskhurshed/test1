@@ -1039,8 +1039,7 @@
         "https://stat.ntc.tj/Y22/RPlan/"
       ],
       "block": [
-        "javascript:var elements = document.querySelectorAll('.pb-5.text-center');elements.forEach(function(element) {element.remove();});var anchorElements = document.querySelectorAll('a[href=\"./\"]');anchorElements.forEach(function(anchorElement) {anchorElement.remove();});var instagramLink = document.querySelector('a[href=\"instagram://user?username=rastamojka.tj\"]');instagramLink.parentNode.removeChild(instagramLink);var adElements = document.querySelectorAll('.adsbygoogle.adsbygoogle-noablate');adElements.forEach(function(element) {element.parentNode.removeChild(element);});",
-        "",
+        "var anchorElements = document.querySelectorAll('a[href=\"./\"]');anchorElements.forEach(function (anchorElement) {if (anchorElement) {anchorElement.remove();}});var elements = document.querySelectorAll('.pb-5.text-center');elements.forEach(function (element) {if (element) {element.remove();}});var downloadAndroidAppElement = document.getElementById('downloadandroidapp');if (downloadAndroidAppElement) {downloadAndroidAppElement.remove();}",
         "",
         ""
       ],
@@ -2113,7 +2112,7 @@
         "https://stat.ntc.tj/Y22/RPlan/"
       ],
       "block": [
-        "javascript:var elements = document.querySelectorAll('.pb-5.text-center');elements.forEach(function(element) {element.remove();});var anchorElements = document.querySelectorAll('a[href=\"./\"]');anchorElements.forEach(function(anchorElement) {anchorElement.remove();});var instagramLink = document.querySelector('a[href=\"instagram://user?username=rastamojka.tj\"]');instagramLink.parentNode.removeChild(instagramLink);var adElements = document.querySelectorAll('.adsbygoogle.adsbygoogle-noablate');adElements.forEach(function(element) {element.parentNode.removeChild(element);});",
+        "var anchorElements = document.querySelectorAll('a[href=\"./\"]');anchorElements.forEach(function (anchorElement) {if (anchorElement) {anchorElement.remove();}});var elements = document.querySelectorAll('.pb-5.text-center');elements.forEach(function (element) {if (element) {element.remove();}});var downloadAndroidAppElement = document.getElementById('downloadandroidapp');if (downloadAndroidAppElement) {downloadAndroidAppElement.remove();}",
         "",
         "",
         ""
