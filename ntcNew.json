@@ -9050,7 +9050,7 @@
   "config": {
     "version": 40,
     "urlMessage": "https://play.google.com/store/apps/details?id=tj.ntc.easyapps",
-    "adsYandex": false,
+    "adsYandex": true,
     "admobBanner": "ca-app-pub-8198363995431120/9365563360",
     "admobInterstitial": "ca-app-pub-8198363995431120/1518862937",
     "yandexBanner": "R-M-1719790-1",
