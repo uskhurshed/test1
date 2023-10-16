@@ -30,7 +30,7 @@
      <li>[Award 1]</li>-->
 </ul>
 
-<h2>📝 Лицензия</h2>
+<h2>📝 License</h2>
 <ul>
  <li>Copyright © 2022 [Usmanov Khurshed](https://github.com/uskhurshed).</li>
 </ul>
