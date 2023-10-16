@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋</h1>
+<h1>Hi there! 👋</h1>
 <p>I'm khurshed.</p>
 <h2>💼 Professional Experience</h2>
 <ul>
@@ -23,13 +23,15 @@
    <li>[Farhang](https://play.google.com/store/apps/details?id=com.easyapps.farhang)</li>
    <li>[Esse](https://play.google.com/store/apps/details?id=com.easyapps.zkplayer)</li>
 </ul>
-<h2>📝 Лицензия</h2>
-<ul>
- <li>Copyright © 2022 [Usmanov Khurshed](https://github.com/uskhurshed).</li>
-</ul>
 <h2>🏆 Awards and Certifications</h2>
 <ul>
     <!-- <li>[Certification 1]</li>
      <li>[Certification 2]</li>
      <li>[Award 1]</li>-->
 </ul>
+
+<h2>📝 Лицензия</h2>
+<ul>
+ <li>Copyright © 2022 [Usmanov Khurshed](https://github.com/uskhurshed).</li>
+</ul>
+
