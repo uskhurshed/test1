@@ -9485,22 +9485,22 @@
     "urlMessage": "https://play.google.com/store/apps/details?id=tj.ntc.easyapps",
     "adsBanner": [
       {
-        "service": "y",
-        "id": "demo-banner-yandex"
-      },
-      {
         "service": "g",
         "id": "ca-app-pub-3940256099942544/6300978111"
-      }
-    ],
-    "adsYandex": [
+      },
       {
         "service": "y",
-        "id": "demo-interstitial-yandex"
-      },
+        "id": "demo-banner-yandex"
+      }
+    ],
+    "adsInterstitial": [
       {
         "service": "g",
         "id": "ca-app-pub-3940256099942544/1033173712"
+      },
+      {
+        "service": "y",
+        "id": "demo-interstitial-yandex"
       }
     ],
     "message": "Ура! Хорошие новости доступна обновление!"
