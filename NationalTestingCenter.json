@@ -1,7 +1,7 @@
 {
   "en": {
     "mainCategory": {
-      "cluster1AwithKey": {
+      "cluster1A": {
         "name": "Примеры тестов | Компонент А",
         "title": [
           "Таджикиский язык",
@@ -40,7 +40,7 @@
           "pdf"
         ]
       },
-      "cluster1BwithKey": {
+      "cluster1B": {
         "name": "Примеры тестов | Компонент Б",
         "title": [
           "Таджикиский язык",
@@ -73,7 +73,7 @@
           "pdf"
         ]
       },
-      "cluster2AwithKey": {
+      "cluster2A": {
         "name": "Примеры тестов | Компонент А",
         "title": [
           "Таджикиский язык",
@@ -112,7 +112,7 @@
           "pdf"
         ]
       },
-      "cluster2BwithKey": {
+      "cluster2B": {
         "name": "Примеры тестов | Компонент Б",
         "title": [
           "Таджикиский язык",
@@ -145,7 +145,7 @@
           "pdf"
         ]
       },
-      "cluster3AwithKey": {
+      "cluster3A": {
         "name": "Примеры тестов | Компонент А",
         "title": [
           "Таджикиский язык",
@@ -184,7 +184,7 @@
           "pdf"
         ]
       },
-      "cluster3BwithKey": {
+      "cluster3B": {
         "name": "Примеры тестов | Компонент Б",
         "title": [
           "Таджикиский язык",
@@ -217,7 +217,7 @@
           "pdf"
         ]
       },
-      "cluster4AwithKey": {
+      "cluster4A": {
         "name": "Примеры тестов | Компонент А",
         "title": [
           "Таджикиский язык",
@@ -256,7 +256,7 @@
           "pdf"
         ]
       },
-      "cluster4BwithKey": {
+      "cluster4B": {
         "name": "Примеры тестов | Компонент Б",
         "title": [
           "Таджикиский язык",
@@ -289,7 +289,7 @@
           "pdf"
         ]
       },
-      "cluster5AwithKey": {
+      "cluster5A": {
         "name": "Примеры тестов | Компонент А",
         "title": [
           "Таджикиский язык",
@@ -328,7 +328,7 @@
           "pdf"
         ]
       },
-      "cluster5BwithKey": {
+      "cluster5B": {
         "name": "Примеры тестов | Компонент Б",
         "title": [
           "Таджикиский язык",
@@ -4761,7 +4761,7 @@
   },
   "tg": {
     "mainCategory": {
-      "cluster1AwithKey": {
+      "cluster1A": {
         "name": "Намунаи тестҳо | Қисми А",
         "title": [
           "Забони тоҷикӣ",
@@ -4800,7 +4800,7 @@
           "pdf"
         ]
       },
-      "cluster1BwithKey": {
+      "cluster1B": {
         "name": "Намунаи тестҳо | Қисми Б",
         "title": [
           "Забони тоҷикӣ",
@@ -4833,7 +4833,7 @@
           "pdf"
         ]
       },
-      "cluster2AwithKey": {
+      "cluster2A": {
         "name": "Намунаи тестҳо | Қисми А",
         "title": [
           "Забони тоҷикӣ",
@@ -4872,7 +4872,7 @@
           "pdf"
         ]
       },
-      "cluster2BwithKey": {
+      "cluster2B": {
         "name": "Намунаи тестҳо | Қисми Б",
         "title": [
           "Забони тоҷикӣ",
@@ -4905,7 +4905,7 @@
           "pdf"
         ]
       },
-      "cluster3AwithKey": {
+      "cluster3A": {
         "name": "Намунаи тестҳо | Қисми А",
         "title": [
           "Забони тоҷикӣ",
@@ -4944,7 +4944,7 @@
           "pdf"
         ]
       },
-      "cluster3BwithKey": {
+      "cluster3B": {
         "name": "Намунаи тестҳо | Қисми Б",
         "title": [
           "Забони тоҷикӣ",
@@ -4977,7 +4977,7 @@
           "pdf"
         ]
       },
-      "cluster4AwithKey": {
+      "cluster4A": {
         "name": "Намунаи тестҳо | Қисми А",
         "title": [
           "Забони тоҷикӣ",
@@ -5017,7 +5017,7 @@
           "pdf"
         ]
       },
-      "cluster4BwithKey": {
+      "cluster4B": {
         "name": "Намунаи тестҳо | Қисми Б",
         "title": [
           "Забони тоҷикӣ",
@@ -5050,7 +5050,7 @@
           "pdf"
         ]
       },
-      "cluster5AwithKey": {
+      "cluster5A": {
         "name": "Намунаи тестҳо | Қисми А",
         "title": [
           "Забони тоҷикӣ",
@@ -5089,7 +5089,7 @@
           "pdf"
         ]
       },
-      "cluster5BwithKey": {
+      "cluster5B": {
         "name": "Намунаи тестҳо | Қисми Б",
         "title": [
           "Забони тоҷикӣ",
