@@ -9483,32 +9483,25 @@
   "config": {
     "version": 40,
     "urlMessage": "https://play.google.com/store/apps/details?id=tj.ntc.easyapps",
-    "priorityGoogle": true,
-    "waterfall": true,
-    "admobBanner": [
-      "ca-app-pub-8198363995431120/9365563360",
-      "ca-app-pub-8198363995431120/9365563360",
-      "ca-app-pub-8198363995431120/9365563360",
-      "ca-app-pub-8198363995431120/9365563360"
+    "adsBanner": [
+      {
+        "service": "y",
+        "id": "demo-banner-yandex"
+      },
+      {
+        "service": "g",
+        "id": "ca-app-pub-3940256099942544/6300978111"
+      }
     ],
-    "admobInterstitial": [
-      "ca-app-pub-8198363995431120/1518862937",
-      "ca-app-pub-8198363995431120/1518862937",
-      "ca-app-pub-8198363995431120/1518862937",
-      "ca-app-pub-8198363995431120/1518862937"
-    ],
-    "yandexBanner": [
-      "R-M-1719790-1",
-      "R-M-1719790-1",
-      "R-M-1719790-1",
-      "R-M-1719790-1",
-      "R-M-1719790-1"
-    ],
-    "yandexInterstitial": [
-      "R-M-1719790-2",
-      "R-M-1719790-2",
-      "R-M-1719790-2",
-      "R-M-1719790-2"
+    "adsYandex": [
+      {
+        "service": "y",
+        "id": "demo-interstitial-yandex"
+      },
+      {
+        "service": "g",
+        "id": "ca-app-pub-3940256099942544/1033173712"
+      }
     ],
     "message": "Ура! Хорошие новости доступна обновление!"
   }
