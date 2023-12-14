@@ -1,11 +1,10 @@
 {
-  lastversion: 1,
-  package: "weather.sinoptik.ua",
-  
-  ya_ads: true,
-  ya_banner: "R-M-1762920-1",
-  ya_mejs: "R-M-1762920-2",
-  go_ads: false,
-  go_banner: "ca-app-pub-8198363995431120/2481526559",
-  go_mejs: "ca-app-pub-8198363995431120/4916118207"
+  "lastversion": 1,
+  "packagess": "weather.sinoptik.ua",
+  "ya_ads": true,
+  "ya_banner": "R-M-1762920-1",
+  "ya_mejs": "R-M-1762920-2",
+  "go_ads": false,
+  "go_banner": "ca-app-pub-8198363995431120/2481526559",
+  "go_mejs": "ca-app-pub-8198363995431120/4916118207"
 }
